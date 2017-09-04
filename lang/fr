@@ -1,0 +1,17 @@
+﻿# Fichier de localisation française de Sparky Screeshot.
+# Copyright 2016 hiver <hiver@club-internet.fr> 2016/05/12
+# Sous licence GNU GPL v2
+# Dernière mise à jour 2016/06/05
+
+LOCAL1="Nom"
+LOCAL2="Description"
+LOCAL3="Quitter"
+LOCAL4="Capture d'écran"
+LOCAL5="S'il vous plaît choisissez une option"
+LOCAL6="Faire une capture maintenant"
+LOCAL7="Faire une capture dans 10 secondes..."
+LOCAL8="zone sélectionnée"
+
+### .desktop file to be translated too
+# Name[fr_FR]=Capture d'écran
+# Comment[fr_FR]=Réaliser une capture d'écran

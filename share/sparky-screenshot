@@ -1,0 +1,1 @@
+?package(sparky-screenshot):needs="X11" section="Applications/Utility"        title="ScreenShot" command="/usr/bin/sparky-screenshot" icon="applets-screenshooter"

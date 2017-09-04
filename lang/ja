@@ -1,0 +1,18 @@
+# Japanese localization file for Sparky Screeshot.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Under the GNU GPL v2
+# Last update 2017/01/06
+# Translated to Japanese by BALLOON a.k.a. Fu-sen.
+
+LOCAL1="名前"
+LOCAL2="説明"
+LOCAL3="終了"
+LOCAL4="スクリーンショット"
+LOCAL5="オプションを選択:"
+LOCAL6="今すぐ撮影"
+LOCAL7="10 秒後に撮影"
+LOCAL8="選択領域"
+
+### .desktop file to be translated too
+# Name[ja_JP]=スクリーンショット
+# Comment[ja_JP]=

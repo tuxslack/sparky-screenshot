@@ -1,0 +1,18 @@
+# Polish localization file for Sparky ScreenShot.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Under the GNU GPL v2
+# Last update 2015/11/09
+# Translated to Polish by pavroo
+
+LOCAL1="Nazwa"
+LOCAL2="Opis"
+LOCAL3="Zakończ"
+LOCAL4="Zrzut Ekranu"
+LOCAL5="Proszę o wybranie jednej z opcji:"
+LOCAL6="Pobierz zrzut ekranu teraz"
+LOCAL7="Pobierz zrzut ekranu za 10 sekund..."
+LOCAL8="Zaznacz obszar"
+
+### .desktop file, również do przetłumaczenia
+# Name[pl_PL]=Zrzut Ekranu
+# Comment[pl_PL]=

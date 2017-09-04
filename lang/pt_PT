@@ -1,0 +1,18 @@
+# Arquivo de localização para Portugues de Portugal do Sparky Screeshot.
+# Copyright 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com> Saturday 23 January 23:46:02 WET 2016
+# Sob a Licença GNU GPL v2
+# Última atualização Saturday 23 January 23:46:02 WET 2016
+# Last update by pavroo 2016/02/09
+
+LOCAL1="Nome"
+LOCAL2="Description"
+LOCAL3="Sair"
+LOCAL4="Captura de Ecrã"
+LOCAL5="Por favor selecione uma opção:"
+LOCAL6="Faça uma captura de ecrã agora"
+LOCAL7="Efectuar uma captura de ecrã em 10 segundos..."
+LOCAL8="Área selecionada"
+
+### Arquivo a ser traduzido também .desktop
+# Name[pt_PT]=ScreenShot
+# Comment[pt_PT]=Capturar imagens de todo o ecrã, da janela ativa ou de uma zona

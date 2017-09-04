@@ -1,0 +1,18 @@
+# English localization file for Sparky Screeshot.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Under the GNU GPL v2
+# Last update 2016/02/28
+# German Translation by lunatic
+
+LOCAL1="Name"
+LOCAL2="Beschreibung"
+LOCAL3="Beenden"
+LOCAL4="Bildschirmfoto"
+LOCAL5="Bitte wählen Sie eine Option:"
+LOCAL6="Jetzt ein Bildschirmfofo aufnehmen"
+LOCAL7="Ein Bildschirmfofo verzögert nach 10 Sekunden aufnehmen..."
+LOCAL8="Aufnahmebereich auswählen"
+
+### .desktop file to be translated too
+# Name[de_DE]=Bildschirmfofo
+# Comment[de_DE]=Ein Bildschirmfoto aufnehmen
