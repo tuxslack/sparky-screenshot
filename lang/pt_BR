@@ -3,9 +3,7 @@
 # Traduzido por  Joel Chaves "Flacc"  <joel_chaves@icloud.com> 23/01/2016
 # Revisado e adaptado por Claudio Cesar de Sá "ccs1664" <ccs1664@gmail.com> 29/01/2016
 # Sob a Licença GNU GPL v2
-# Última atualização 29/01/2016
-# Last update by pavroo 2016/02/09
-
+# Last update 2018/08/04 by pavroo
 LOCAL1="Nome"
 LOCAL2="Descrição"
 LOCAL3="Sair"
@@ -14,7 +12,6 @@ LOCAL5="Por favor selecione uma opção:"
 LOCAL6="Faça uma captura de tela agora"
 LOCAL7="Efetuar uma captura de Tela em 10 segundos..."
 LOCAL8="Área selecionada"
-
 ### Arquivo a ser traduzido também .desktop
 # Name[pt_BR]=Captura de Tela 
 # Comment[pt_BR]=Captura uma imagem da tela inteira, da janela ativa ou de uma região

@@ -1,8 +1,7 @@
 # English localization file for Sparky Screeshot.
 # Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
 # Under the GNU GPL v2
-# Last update 2015/11/09
-
+# Last update 2018/08/04 by pavroo
 LOCAL1="Name"
 LOCAL2="Description"
 LOCAL3="Exit"
@@ -11,7 +10,6 @@ LOCAL5="Please select an option:"
 LOCAL6="Make a screenshot now"
 LOCAL7="Make a screenshot in 10 seconds..."
 LOCAL8="Selected area"
-
 ### .desktop file to be translated too
 # Name[en_US]=ScreenShot
 # Comment[en_US]=

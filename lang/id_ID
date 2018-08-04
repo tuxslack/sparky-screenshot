@@ -1,0 +1,16 @@
+# Indonesian localization file for Sparky Screeshot.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Under the GNU GPL v2
+# Last update 2018/08/04 by pavroo
+# Translated to Indonesian by les kompie
+LOCAL1="Nama"
+LOCAL2="Deskripsi"
+LOCAL3="Keluar"
+LOCAL4="ScreenShot"
+LOCAL5="Pilih salah satu:"
+LOCAL6="Ambil screenshot sekarang"
+LOCAL7="Ambil screenshot dalam 10 detik..."
+LOCAL8="Area yang dipilih"
+### .desktop file to be translated too
+# Name[id_ID]=ScreenShot
+# Comment[id_ID]=
