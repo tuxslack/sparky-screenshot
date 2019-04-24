@@ -1,0 +1,15 @@
+# Файл русской локализации для Sparky Screeshot.
+Copyright 2015 PaweЕ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Под лицензией GNU GPL v2
+# Last update 2018/08/04 by pavroo
+LOCAL1="Имя"
+LOCAL2="Описание"
+LOCAL3="Выход"
+LOCAL4="ScreenShot"
+LOCAL5="Пожалуйста, выберите опцию:"
+LOCAL6="Сделать скриншот сейчас"
+LOCAL7="Сделать скриншот через 10 секунд ..."
+LOCAL8="Выбрать область"
+### .desktop файл переведён ChourS
+# Name[en_US]=ScreenShot
+# Comment[ru_RU]=Снимки Рабочего стола

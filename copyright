@@ -2,7 +2,7 @@ Upstream Author(s):
     Paweł "pavroo" Pijanowski <pavroo@onet.eu>
 
 Files: * 
-    Copyright (C) 2013-2018 Paweł Pijanowski
+    Copyright (C) 2013-2019 Paweł Pijanowski
 
 File: de
     Copyright (C) 2016 lunatic
@@ -35,6 +35,10 @@ File: pt_BR
 File: pt_PT
     Copyright (C) 2016 Joel Chaves "Flacc" <joel_chaves@icloud.com>
     License: GPL-2
+
+File: ru
+    Copyright 2019 ChourS2008
+    License: GNU GPL-2
 
 License:
 
