@@ -1,0 +1,15 @@
+# Hungarian localization file for Sparky Screeshot. (Translated by Nemomen)
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Under the GNU GPL v2
+# Last update 2018/08/04 by pavroo
+LOCAL1="Név"
+LOCAL2="Leírás"
+LOCAL3="Kilépés"
+LOCAL4="Állókép (ScreenShot)"
+LOCAL5="Kérjük, válasszon opciót:"
+LOCAL6="Készítsen állóképet (screenshot) most!"
+LOCAL7="Készítsen állóképet (screenshot) 10 másodperc alatt..."
+LOCAL8="Kiválasztott terület"
+### .desktop file to be translated too
+# Name[en_US]=ScreenShot
+# Comment[en_US]=
