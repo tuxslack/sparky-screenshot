@@ -1,0 +1,15 @@
+# Greek localization file for Sparky Screeshot.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Under the GNU GPL v2
+# Last update 2019/11/06 by jidan
+LOCAL1="Όνομα"
+LOCAL2="Περιγραφή"
+LOCAL3="Έξοδος"
+LOCAL4="ScreenShot"
+LOCAL5="Διαλέξτε μια επιλογή:"
+LOCAL6="Δημιουργία screenshot τώρα"
+LOCAL7="Δημιουργία screenshot σε 10 δευτερόλεπτα..."
+LOCAL8="Επιλεγμένη περιοχή"
+### .desktop file to be translated too
+# Name[el_GR]=ScreenShot
+# Comment[el_GR]=Δημιουργία εικόνας από την επιφάνεια εργασίας
