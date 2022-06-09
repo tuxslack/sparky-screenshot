@@ -1,15 +1,16 @@
 # File di localizzazione in Italiano per Sparky Screenshot
 # Copyright 2015 Carlo Troiani <troianicarlo@gmail.com> 09/11/2015
 # Rilasciato sotto licenza GNU GPL v2
+# Ultimo aggiornamento 2022/05/18 by Yodel Sinatra <mastodon.uno/@YodelSinatra>
 # Last update 2018/08/04 by pavroo
 LOCAL1="Nome"
 LOCAL2="Descrizione"
 LOCAL3="Esci"
 LOCAL4="ScreenShot"
-LOCAL5="Prego, seleziona un'opzione:"
+LOCAL5="Per favore, seleziona un'opzione:"
 LOCAL6="Fai lo screenshot adesso"
 LOCAL7="Fai lo screenshot fra 10 secondi..."
 LOCAL8="Seleziona l'area"
 ### .desktop file to be translated too
 # Name[it_IT]=ScreenShot
-# Comment[it_IT]=
+# Comment[it_IT]=Istantanea della schermo
