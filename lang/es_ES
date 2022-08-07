@@ -1,0 +1,16 @@
+# Spanish (es_ES) localization file for Sparky Screenshot.
+# Copyright 2015 Paweł "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# Under the GNU GPL v2
+# Last update 2018/08/04 by pavroo
+# Translated by depaz
+LOCAL1="Nombre"
+LOCAL2="Descripción"
+LOCAL3="Salir"
+LOCAL4="Capturar pantalla"
+LOCAL5="Por favor, escoja una opción:"
+LOCAL6="Crear captura de pantalla ahora"
+LOCAL7="Crear captura de pantalla en 10 segundos..."
+LOCAL8="Seleccionar área"
+### .desktop file to be translated too
+# Name[es_ES]=Capturar pantalla
+# Comment[es_ES]=
