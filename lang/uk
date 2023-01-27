@@ -1,0 +1,17 @@
+# Файл української локалізації для Sparky ScreenShot.
+# Ukrainian localization made by XalisRatt 2023/01/19 (I almost never use email, so contact me on matrix instead
+# <@xalisqull:arcticfoxes.net> or discord <XalisRatt#2308>
+# Copyright 2015 Paweł‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/10/22
+# Under the GNU GPL v2
+# Last update by pavroo 2018/08/04
+LOCAL1="Ім'я"
+LOCAL2="Опис"
+LOCAL3="Вихід"
+LOCAL4="ScreenShot"
+LOCAL5="Будь ласка, виберіть опцію:"
+LOCAL6="Зробити знімок екрану зараз"
+LOCAL7="Зробити знімок екрану через 10 секунд ..."
+LOCAL8="У вибраній області"
+### .desktop file to be translated too
+# Name[en_US]=ScreenShot
+# Comment[uk_UA]=Знімки екрану
