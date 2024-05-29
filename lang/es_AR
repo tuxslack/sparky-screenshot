@@ -1,7 +1,7 @@
 # Archivo de localización en español para Sparky Screenshot.
 # Copyright 2015 Fernando "seacat" Velo <seacat.linux@gmail.com> 2015/12/22
 # Bajo la licencia GNU GPL v2
-# Last update 2018/08/04 by pavroo
+# Last update 2024/04/15 by aleXimon
 LOCAL1="Nombre"
 LOCAL2="Descripción"
 LOCAL3="Salir"
@@ -9,7 +9,7 @@ LOCAL4="Captura de pantalla"
 LOCAL5="Por favor, elegir una opción:"
 LOCAL6="Hacer una captura de pantalla ahora"
 LOCAL7="Hacer una captura de pantalla en 10 segundos..."
-LOCAL8="Área selecionada"
+LOCAL8="Selecionar un área a capturar"
 ### .desktop file to be translated too
 # Name[es_AR]=Captura de pantalla
-# Comment[es_AR]=
+# Comment[es_AR]= Capturar la Pantalla (o un área)
