@@ -1,0 +1,15 @@
+# Suomenkielinen lokalisointitiedosto Sparky Screeshotille.
+# Tekijänoikeus 2015 PaweÅ‚ "pavroo" Pijanowski <pavroo@onet.eu> 2015/11/09
+# GNU GPL v2:n alla
+# Viimeisin päivitys 2018/08/04 pavroo
+LOCAL1="Nimi"
+LOCAL2="Kuvaus"
+LOCAL3="Poistu"
+LOCAL4="Kuvakaappaus"
+LOCAL5="Valitse vaihtoehto:"
+LOCAL6="Tee kuvakaappaus nyt"
+LOCAL7="Tee kuvakaappaus 10 sekunnissa..."
+LOCAL8="Valittu alue"
+### .desktop-tiedosto käännettävä myös
+# Name[fi]=Kuvakaappaus
+# kommentti[fi]=
