@@ -6,6 +6,17 @@
 #  Created by Paweł "pavroo" Pijanowski 2013/06/30
 #  Copyright 2013-2024 under the GNU GPL2 License
 #  Last update 2024/07/29 by pavroo
+#  Last update 2024/11/18 by Fernando Souza - https://www.youtube.com/@fernandosuporte
+
+which  yad        || exit
+which  scrot      || exit
+
+
+# programa="gthumb"
+programa="gpicview"
+
+which "$programa" || exit
+
 
 # get default's locale file
 DEFLOCDIR="/usr/share/sparky/sparky-screenshot"
@@ -76,19 +87,19 @@ fi
 }
 
 screenshot0menu () {
-scrot 'screenshot_%Y-%m-%d-%s_$wx$h.png' -e 'mv $f ~/ &amp; gpicview ~/$f'
+scrot 'screenshot_%Y-%m-%d-%s_$wx$h.png' -e 'mv $f ~/ &amp;        "$programa" ~/$f'
 
 mainmenu
 }
 
 screenshot10menu () {
-scrot -d 10 'screenshot_%Y-%m-%d-%s_$wx$h.png' -e 'mv $f ~/ &amp; gpicview ~/$f'
+scrot -d 10 'screenshot_%Y-%m-%d-%s_$wx$h.png' -e 'mv $f ~/ &amp;  "$programa" ~/$f'
 
 mainmenu
 }
 
 screenshotSmenu () {
-scrot -s 'screenshot_%Y-%m-%d-%s_$wx$h.png' -e 'mv $f ~/ &amp; gpicview ~/$f'
+scrot -s 'screenshot_%Y-%m-%d-%s_$wx$h.png' -e 'mv $f ~/ &amp;     "$programa" ~/$f'
 
 mainmenu
 }
