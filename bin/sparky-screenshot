@@ -56,7 +56,7 @@ else
 . $DEFLOCDIR/en
 fi
 
-DIALOG="yad --window-icon=applets-screenshooter --width=500 --height=300 --center"
+DIALOG="yad --center --window-icon=applets-screenshooter --width=500 --height=300 --center"
 TITLE="--always-print-result --dialog-sep --image=applets-screenshooter --title="
 TEXT="--text="
 MENU="--list --column=$LOCAL1 --column=$LOCAL2"
